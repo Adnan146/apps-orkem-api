@@ -4,70 +4,70 @@
       "id": 1,
       "first_name": "Hima",
       "last_name": "Teknik Informatika",
-      "image": "img/1.jpg",
+      "image": "img/ti.jpg",
       "link": "https://www.instagram.com/hima_ti.darmajaya/"
     },
     {
       "id": 2,
       "first_name": "Hima",
       "last_name": "Sistem Komputer",
-      "image": "img/2.jpg",
+      "image": "img/si.jpg",
       "link": "https://www.instagram.com/hima_stekom/"
     },
     {
       "id": 3,
       "first_name": "Hima",
       "last_name": "Manajemen",
-      "image": "img/3.jpg",
+      "image": "img/ma.jpg",
       "link": "https://www.instagram.com/hima.ma.dj/"
     },
     {
       "id": 4,
       "first_name": "Hima",
       "last_name": "Akuntansi",
-      "image": "img/4.jpg",
+      "image": "img/ak.jpg",
       "link": "https://www.instagram.com/hima_akuntansi/"
     },
     {
       "id": 5,
       "first_name": "Hima",
       "last_name": "Sistem Informasi",
-      "image": "img/5.jpg",
+      "image": "img/sk.jpg",
       "link": "https://www.instagram.com/himsi.dj/"
     },
     {
       "id": 6,
       "first_name": "UKM",
       "last_name": "Bahasa",
-      "image": "img/6.jpg",
+      "image": "img/bhs.jpg",
       "link": "https://www.instagram.com/ukmbhs_dj/"
     },
     {
       "id": 7,
       "first_name": "UKM",
       "last_name": "As-salam",
-      "image": "img/7.jpg",
+      "image": "img/as.jpg",
       "link": "https://www.instagram.com/ukmassalamiibdarmajaya/"
     },
     {
       "id": 8,
       "first_name": "UKM",
       "last_name": "DCFC",
-      "image": "img/8.jpg",
+      "image": "img/dcfc.jpg",
       "link": "https://www.instagram.com/ukm_dcfc/"
     },
     {
       "id": 9,
       "first_name": "BEM",
       "last_name": "Darmajaya",
-      "image": "img/9.jpg",
+      "image": "img/bem.jpg",
       "link": "https://www.instagram.com/bem.darmajaya/"
     },
     {
       "id": 10,
       "first_name": "UKM",
       "last_name": "PIK-R Sehati",
-      "image": "img/10.jpg",
+      "image": "img/pik.jpg",
       "link": "https://www.instagram.com/pikremajasehatidarmajaya/"
     }
   ]
